@@ -20,7 +20,7 @@
 #define SUPER 1
 #define GAMMA 2.2
 #define SEED 1
-#define PATH "/tmp/fractal.tif"
+#define PATH "./tmp/fractal.tif"
 #define THREADGROUPSIZE 9
 
 /* structs */

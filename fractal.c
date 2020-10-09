@@ -10,7 +10,6 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <math.h>
-#include <malloc.h>
 #include <pthread.h>
 #include <tiffio.h>
 #include <string.h>

@@ -1,7 +1,7 @@
 #Makefile for fractal generator
 
-CC = gcc
-CFLAGS = -ansi -pedantic -Werror -Wall -O3 -D_GNU_SOURCE
+CC = gcc -g
+CFLAGS = -ansi -pedantic -Werror -Wall -D_GNU_SOURCE
 LFLAGS = -lm -ltiff -lpthread
 
 all: fractal
